@@ -15,8 +15,8 @@ get_header();
 
 	
 	<?php
-		//include 'test-path/section-contact-info.php';
-		//include 'test-path/section-offices.php';
+		include 'test-path/section-contact-info.php';
+		include 'test-path/section-offices.php';
 		include 'test-path/section-form.php';
 	?>	
 	<div class="container content">
